@@ -2,11 +2,13 @@
 
 - 👋 Olá, Mundo! Me chamo Maickon Brenner!
 - 👀 Adoro a área da Tecnologia
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ Procuro futuramente colaborar com a comunidade Open Source
+- 📫 Email Pessoal: maickonbrenner@gmail.com
+
+<!---
+- ⚡ Computação Forense: 
+- 🌱 Atualmente
+--->
 
 ## Experiências
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/>
