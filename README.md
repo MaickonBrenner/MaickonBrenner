@@ -1,8 +1,8 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 - 👋 Olá, Mundo! Me chamo Maickon Brenner!
-- 👀 Adoro a área da Tecnologia
-- 💞️ Procuro futuramente colaborar com a comunidade Open Source
+- 💞️ Adoro a área da Tecnologia
+- 👀 Procuro futuramente colaborar com a comunidade Open Source
 - 📫 Email Pessoal: maickonbrenner@gmail.com
 
 <!---
