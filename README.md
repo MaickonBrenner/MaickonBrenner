@@ -2,7 +2,7 @@
 
 - 👋 Olá, Mundo! Me chamo Maickon Brenner!
 - 💞️ Adoro a área da Tecnologia
-- 👀 Procuro futuramente colaborar com a comunidade Open Source
+- 👀 Procuro colaborar com a comunidade Open Source
 - 📫 Email Pessoal: maickonbrenner@gmail.com
 
 <!---
